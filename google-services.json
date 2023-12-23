@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "962096356299",
+    "project_id": "fuelestimator-e1465",
+    "storage_bucket": "fuelestimator-e1465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962096356299:android:016f024656e867c395744e",
+        "android_client_info": {
+          "package_name": "com.papertopixel.fuelestimator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962096356299-mb2tqt6jnbr1ks02gkmhk16ppmbk7gdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHuYUHJxeUAa_pku1NQ6iG05XEnAHpwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962096356299-mb2tqt6jnbr1ks02gkmhk16ppmbk7gdg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962096356299-ch3qfegsmbben6mfrmsaqk6tmigastsf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.papertopixel.fuelestimator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
